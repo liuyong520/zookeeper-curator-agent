@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java" description="RetryPolicyFactory.RetryPolicyType  retryPolicyTyp..." line="336" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91113f4c-f71b-4505-bee8-119eb0bedbac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Svn/CoupondrawService/trunk/src/main/java/com/nnk/coupon/entity/CouponCallbackResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Svn/CoupondrawService/trunk/src/main/java/com/nnk/coupon/manager/SysnLogDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Svn/CoupondrawService/trunk/src/main/java/com/nnk/coupon/manager/impl/PartnerUserCouponStoreDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/anotaion/DS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/aop/DynamicDataSourceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/config/DataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/config/DataSourceContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/config/DynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../callbacktask1/src/main/java/com/nnk/cmb/callbacktask/config/MybatisDbBConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msgsrvextend/src/main/java/com/nnk/msgsrv/exception/MsgSrvSpringProviderBeanException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msgsrvextend/src/main/java/com/nnk/msgsrv/handler/DefaultMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msgsrvextend/src/test/java/com/nnk/msgsrv/AnnotationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../msgsrvextend/src/test/java/com/nnk/msgsrv/config/MsgsrvConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/listener/BaseNodeCacheListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/CreateNodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/DeleteNodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/LoadZookeeperException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NodeCacheException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NotExistNodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/UpdateNodeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/RetryPolicyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/ZookeeperProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedExclusiveLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxyFactroy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/AclUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/ResourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/main/resources/properties/zookeeper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/model/RedisConfig.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/curator-demo/target/" />
+    <ignored path="$PROJECT_DIR$/zookeeperAgent/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="226" column="20" selection-start-line="226" selection-start-column="20" selection-end-line="226" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12004#12005#0" expanded="true" />
+                <element signature="e#12025#12026#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/ZookeeperProxyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3067#3266#0" expanded="true" />
+                <element signature="e#3265#3266#0" expanded="true" />
+                <element signature="e#1931#1932#0" expanded="true" />
+                <element signature="e#1963#1964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.1.0/curator-framework-4.1.0.jar!/org/apache/curator/framework/api/CuratorEvent.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="266" column="1" lean-forward="true" selection-start-line="266" selection-start-column="1" selection-end-line="266" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/listener/BaseNodeCacheListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/RetryPolicyFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#1004#1005#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxyFactroy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/curator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxy.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/ResourceUtils.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperConnector.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/LoadZookeeperException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/CreateNodeException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/DeleteNodeException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NotExistNodeException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/UpdateNodeException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/listener/BaseNodeCacheListener.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NodeCacheException.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonInterface.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonBase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/AclUtils.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxyFactroy.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/Lock.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedExclusiveLock.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/resources/properties/zookeeper.properties" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/model/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/RetryPolicyFactory.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperOperations.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java" />
+        <option value="$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImplTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="nnk-nexus" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zookeeperAgent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="curator-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="fate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+              <item name="fate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-curator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-curator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeperAgent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fate" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553245827896" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4269275" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sentisc.zk.base.core.fate" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sentisc.zk.base.model" />
+      <recent name="com.sentisc.zk.base.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sentisc.zk.base.exception" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ZookeeperOperationsImplTest.setNodeDataAsyn">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperOperationsImplTest.createPermanentNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeperAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sentisc.zk.base.core.fate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sentisc.zk.base.core.fate" />
+      <option name="MAIN_CLASS_NAME" value="com.sentisc.zk.base.core.fate.ZookeeperOperationsImplTest" />
+      <option name="METHOD_NAME" value="createPermanentNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperOperationsImplTest.createTemporaryNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeperAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sentisc.zk.base.core.fate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sentisc.zk.base.core.fate" />
+      <option name="MAIN_CLASS_NAME" value="com.sentisc.zk.base.core.fate.ZookeeperOperationsImplTest" />
+      <option name="METHOD_NAME" value="createTemporaryNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperOperationsImplTest.setNodeDataAsyn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeperAgent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sentisc.zk.base.core.fate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sentisc.zk.base.core.fate" />
+      <option name="MAIN_CLASS_NAME" value="com.sentisc.zk.base.core.fate.ZookeeperOperationsImplTest" />
+      <option name="METHOD_NAME" value="setNodeDataAsyn" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZookeeperOperationsImplTest.setNodeDataAsyn" />
+        <item itemvalue="JUnit.ZookeeperOperationsImplTest.createTemporaryNode" />
+        <item itemvalue="JUnit.ZookeeperOperationsImplTest.createPermanentNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91113f4c-f71b-4505-bee8-119eb0bedbac" name="Default Changelist" comment="" />
+      <created>1552957871061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552957871061</updated>
+      <workItem from="1552957874552" duration="1731000" />
+      <workItem from="1552975021797" duration="2007000" />
+      <workItem from="1553046647689" duration="37554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 51m 37s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 52m 42s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 52m 59s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 53m 40s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 54m 19s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createPermanentNode - 2019.03.22 at 16h 57m 13s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createPermanentNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createTemporaryNode - 2019.03.22 at 17h 01m 08s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createTemporaryNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createTemporaryNode - 2019.03.22 at 17h 03m 23s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createTemporaryNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperOperationsImplTest_createTemporaryNode - 2019.03.22 at 17h 05m 14s.xml">
+      <configuration name="ZookeeperOperationsImplTest.createTemporaryNode" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41292000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20213333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49653333" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6576" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5642667" weight="0.49385476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3424" side_tool="true" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09866667" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" weight="0.3296" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java</url>
+          <line>336</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.1.0/curator-framework-4.1.0.jar!/org/apache/curator/framework/CuratorFrameworkFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#2305#2306#0" expanded="true" />
+            <element signature="e#2365#2366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="59" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/LoadZookeeperException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="60" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.1.0/curator-client-4.1.0.jar!/org/apache/curator/retry/ExponentialBackoffRetry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.1.0/curator-client-4.1.0.jar!/org/apache/curator/retry/RetryOneTime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.1.0/curator-client-4.1.0.jar!/org/apache/curator/retry/RetryUntilElapsed.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/ResourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-592">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/CreateNodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NotExistNodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/UpdateNodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.1.0/curator-framework-4.1.0.jar!/org/apache/curator/framework/api/Pathable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.1.0/curator-recipes-4.1.0.jar!/org/apache/curator/framework/recipes/cache/NodeCacheListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.1.0/curator-recipes-4.1.0.jar!/org/apache/curator/framework/recipes/cache/NodeCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+          <folding>
+            <element signature="e#2370#2371#0" expanded="true" />
+            <element signature="e#2411#2412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.1.0/curator-recipes-4.1.0.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCacheMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.1.0/curator-recipes-4.1.0.jar!/org/apache/curator/framework/recipes/cache/PathChildrenCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="152" column="49" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/utils/AclUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/model/CommonJsonBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-recipes/4.1.0/curator-recipes-4.1.0.jar!/org/apache/curator/framework/recipes/shared/SharedCountListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.1.0/curator-framework-4.1.0.jar!/org/apache/curator/framework/api/transaction/CuratorMultiTransactionMain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.13/zookeeper-3.4.13.jar!/org/apache/zookeeper/ZKUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.1.0/curator-client-4.1.0.jar!/org/apache/curator/utils/PathUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/NodeCacheException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/exception/DeleteNodeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5365">
+          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-client/4.1.0/curator-client-4.1.0.jar!/org/apache/curator/utils/ZKPaths.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="167" column="33" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="33" />
+          <folding>
+            <element signature="e#7337#7338#0" expanded="true" />
+            <element signature="e#7386#7387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="943" column="44" selection-start-line="943" selection-start-column="31" selection-end-line="943" selection-end-column="44" />
+          <folding>
+            <element signature="e#36463#36464#0" expanded="true" />
+            <element signature="e#36521#36522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="334" column="25" selection-start-line="334" selection-start-column="25" selection-end-line="334" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.10.6.Final/netty-3.10.6.Final.jar!/org/jboss/netty/util/internal/NonReentrantLock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="539" column="24" selection-start-line="539" selection-start-column="24" selection-end-line="539" selection-end-column="24" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="374" column="46" selection-start-line="374" selection-start-column="46" selection-end-line="374" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/lock/fate/DistributedExclusiveLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/resources/properties/zookeeper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/model/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/proxy/ZookeeperProxyFactroy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/ZookeeperProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/factory/RetryPolicyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/listener/BaseNodeCacheListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/ZookeeperOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="266" column="1" lean-forward="true" selection-start-line="266" selection-start-column="1" selection-end-line="266" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/main/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="226" column="20" selection-start-line="226" selection-start-column="20" selection-end-line="226" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12004#12005#0" expanded="true" />
+            <element signature="e#12025#12026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/curator/curator-framework/4.1.0/curator-framework-4.1.0.jar!/org/apache/curator/framework/api/CuratorEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeperAgent/src/test/java/com/sentisc/zk/base/core/fate/ZookeeperOperationsImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3067#3266#0" expanded="true" />
+            <element signature="e#3265#3266#0" expanded="true" />
+            <element signature="e#1931#1932#0" expanded="true" />
+            <element signature="e#1963#1964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4269275" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4269275" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zookeeperAgent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4269275" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.42</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4269275" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
